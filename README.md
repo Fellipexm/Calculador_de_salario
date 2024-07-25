@@ -1,1 +1,1 @@
-"# Calculador_de_salario" 
+Este script em Python calcula o valor da hora trabalhada com base no salário mensal e na quantidade de horas trabalhadas por dia. O usuário é solicitado a fornecer seu salário mensal e o número de horas diárias de trabalho
